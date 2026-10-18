@@ -1,0 +1,6 @@
+{
+  "name": "Nuestra Boda - Oscar & Tatiana",
+  "description": "Invitación de matrimonio elegante para Oscar Londoño y Tatiana Giraldo con música de fondo, lluvia de sobres, carrusel, confirmación de asistencia por correo y libro de deseos con descarga en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
